@@ -1,0 +1,164 @@
+html{
+    font-family: 'Barlow', sans-serif;
+    background-color: rgb(225, 225, 225);
+}
+#headertext{
+    margin: 0;
+    border: 0;
+    padding: 20px;
+    font-size: 30px;
+    font-weight: 100;
+    color: aliceblue;
+    background-image: url(../images/banner_img.png);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+#barra{
+    font-weight: 900;
+}
+#htext{
+    font-size: 20px;
+}
+#img1{
+    width: 200px;
+    margin: 10px 15px;
+    border: 2px solid rgb(255, 255, 255);
+    border-radius: 10pt;
+    padding: 10px;
+    background-color: rgb(255, 255, 255);
+}
+.text1{
+    margin: 20px;
+    border: 2px solid rgb(255, 255, 255);
+    border-radius: 10pt;
+    padding: 60px 30px;
+    width: fit-content;
+    background-color: rgb(255, 255, 255);
+    text-align: left;
+}
+.article1{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 20px 0 
+}
+.text2{
+    margin: 20px;
+    border: 2px solid rgb(255, 255, 255);
+    border-radius: 10pt;
+    padding: 60px 30px;
+    width: fit-content;
+    background-color: rgb(255, 255, 255);
+    text-align: left;
+}
+#img2{
+    width: 200px;
+    margin: 0 20px 0 0;
+    border: 2px solid rgb(255, 255, 255);
+    border-radius: 10pt;
+    padding: 10px;
+    background-color: rgb(255, 255, 255);
+}
+.article2{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+#img3{
+    width: 200px;
+    margin: 0 5px 0 15px ;
+    border: 2px solid rgb(255, 255, 255);
+    border-radius: 10pt;
+    padding: 10px;
+    background-color: rgb(255, 255, 255);
+}
+.text3{
+    margin: 30px;
+    border: 2px solid rgb(255, 255, 255);
+    border-radius: 10pt;
+    padding: 50px 50px;
+    width: fit-content;
+    background-color: rgb(255, 255, 255);
+    text-align: left;
+}
+.article3{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 15px 0 0 0;
+}
+#img4{
+    width: 200px;
+    margin: 20px 15px 20px 30px;
+    border: 2px solid rgb(255, 255, 255);
+    border-radius: 10pt;
+    padding: 10px;
+    background-color: rgb(255, 255, 255);
+}
+.text4{
+    margin: 20px;
+    border: 2px solid rgb(255, 255, 255);
+    border-radius: 10pt;
+    padding: 60px 30px;
+    width: fit-content;
+    background-color: rgb(255, 255, 255);
+    text-align: left;
+}
+.article4{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+#img5{
+    width: 180px;
+    margin: 20px 15px 0 20px;
+    border: 2px solid rgb(255, 255, 255);
+    border-radius: 10pt;
+    padding: 10px 20px;
+    background-color: rgb(255, 255, 255);
+}
+.text5{
+    margin: 40px 20px 20px 20px;
+    border: 2px solid rgb(255, 255, 255);
+    border-radius: 10pt;
+    padding: 65px 30px;
+    width: fit-content;
+    background-color: rgb(255, 255, 255);
+    text-align: left;
+}
+.article5{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+#img6{
+    width: 190px;
+    margin: 30px 15px 20px 10px;
+    border: 2px solid rgb(255, 255, 255);
+    border-radius: 10pt;
+    padding: 15px;
+    background-color: rgb(255, 255, 255);
+}
+.text6{
+    margin: 10px 0 0 20px ;
+    border: 2px solid rgb(255, 255, 255);
+    border-radius: 10pt;
+    padding: 75px 20px;
+    width: fit-content;
+    background-color: rgb(255, 255, 255);
+    text-align: left;
+}
+.article6{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.footpage{
+    background-color: rgb(65, 65, 65);
+    background-size: cover;
+    color: rgb(255, 255, 255);
+    padding: 30px;
+    margin-top: 30px;
+    text-align: right;
+}
